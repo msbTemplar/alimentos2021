@@ -4,7 +4,7 @@
 
           <table>
               <tr>
-                  <td>energía del alimento:</td>
+                  <td>energía del alimento nuevo :</td>
                   <td><input type="text" name="energia" value="<?php echo $params['energia']?>">(introducir únicamente números positivos)</td>
 							</tr>
 							<tr>
